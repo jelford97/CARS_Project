@@ -1,0 +1,16 @@
+Galaxy,Line,Detection,Line Vel Min,Line Vel Max,File Path,Total Flux,Channel Width,Line Width,Beam,Intensity (Jy km/s),RMS
+HE0108,CS,No,-500,-260,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0108CS_stacked.fits,0.246552086,,250,0.022,61.63802153,0.082184029
+HE0108,HCN,No,-249,249,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0108HCN_stacked.fits,0.244435982,,300,0.024,73.33079464,0.081478661
+HE0108,HCO,No,-259,259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0108HCO+_stacked.fits,0.268537282,,300,0.024,80.56118461,0.089512427
+HE0433,CS,No,-499,-259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0433CS_stacked.fits,0.230333817,,250,0.025,57.58345416,0.076777939
+HE0433,HCN,Yes,,,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0433HCN_stacked.fits,2.262219719,20,300,0.027,2.262219719,4.162864765
+HE0433,HCO,Yes,,,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0433HCO+_stacked.fits,2.383592694,20,,0.027,2.383592694,4.255517652
+HE1029,CS,No,-500,-260,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1029CS_stacked.fits,0.391416086,,250,0.026,97.85402157,0.130472029
+HE1029,HCN,Yes,,,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1029HCN_stacked.fits,0.591625945,20,,0.028,0.591625945,2.77292933
+HE1029,HCO,Yes,,,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1029HCO+_stacked.fits,2.466524599,20,,0.028,2.466524599,6.423172797
+HE1108,CS,Yes,,,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1108CS_stacked.fits,0.104708445,20,,0.018,0.104708445,2.151593847
+HE1108,HCN,Yes,,,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1108HCN_stacked.fits,0.77981276,20,,0.019,0.77981276,3.312436278
+HE1108,HCO,Yes,,,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1108HCO+_stacked.fits,1.527344292,20,,0.019,1.527344292,3.202874405
+HE1353,CS,No,-499,-259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1353CS_stacked.fits,0.078009768,,250,0.039,19.50244202,0.026003256
+HE1353,HCN,No,-249,249,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1353HCN_stacked.fits,0.070429414,,300,0.042,21.12882424,0.023476471
+HE1353,HCO,No,-259,259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1353HCO+_stacked.fits,0.076281877,,300,0.042,22.8845632,0.025427292

@@ -1,0 +1,13 @@
+Galaxy & Line,All line detection,Line,Height Min,Height Max,Width Min,Width Max,Min Chan,Max Chan,Nchan,Channel Width,Linewidth,RMS,Beam Size,File Path
+HE01084743 CS,Yes,CS,55,85,60,85,69,81,12,20,NaN,0.000497,0.022,/Users/jelford/Documents/PhD_Work/CARS_Data/HE01084743/25clean_contsub.fits
+HE01084743 HCO+,Yes,HCO+,50,75,60,75,19,28,9,20,NaN,0.000555,0.024,/Users/jelford/Documents/PhD_Work/CARS_Data/HE01084743/27clean_contsub.fits
+HE01084743 HCN,Yes,HCN,55,70,60,75,29,43,14,20,NaN,0.000512,0.024,/Users/jelford/Documents/PhD_Work/CARS_Data/HE01084743/29clean_contsub.fits
+HE11082813 HCO+,No,HCO+,55,80,50,75,16,31,15,20,NaN,7.89E-04,0.019,/Users/jelford/Documents/PhD_Work/CARS_Data/HE11082813/27clean.fits
+HE11082813 HCN,No,HCN,55,75,50,75,30,46,16,20,NaN,6.72E-04,0.019,/Users/jelford/Documents/PhD_Work/CARS_Data/HE11082813/29clean.fits
+HE11082813 CS,No,CS,0,0,0,0,0,0,0,0,310,7.25E-04,0.018,/Users/jelford/Documents/PhD_Work/CARS_Data/HE11082813/25clean.fits
+HE10291831 HCN,No,HCN,50,75,55,80,26,37,11,20,NaN,5.40E-04,0.028,/Users/jelford/Documents/PhD_Work/CARS_Data/HE10291831/HE1029_29clean.fits
+HE10291831 HCO+,No,HCO+,55,75,55,75,8,22,14,20,NaN,6.66E-04,0.028,/Users/jelford/Documents/PhD_Work/CARS_Data/HE10291831/HE1029_27clean.fits
+HE10291831 CS,No,CS,0,0,0,0,0,0,0,0,250,9.38E-04,0.026,/Users/jelford/Documents/PhD_Work/CARS_Data/HE10291831/HE1029_25clean.fits
+HE04331028,No,HCN,55,80,50,80,31,43,12,20,NaN,1.26E-03,0.027,/Users/jelford/Documents/PhD_Work/CARS_Data/HE04331028/HE04331028_clean_hcn.image.fits
+HE04331028,No,HCO+,60,80,55,75,16,33,17,20,NaN,1.27E-03,0.027,/Users/jelford/Documents/PhD_Work/CARS_Data/HE04331028/HE04331028_clean_hco.image.fits
+HE04331028,No,CS,0,0,0,0,0,0,0,0,290,1.35E-03,0.025,/Users/jelford/Documents/PhD_Work/CARS_Data/HE04331028/HE04331028_clean_cs.image.fits

@@ -1,0 +1,16 @@
+Galaxy,Stacking Data,Line,Rest Freq (GHz),Cube path,Moment 1 Path,Recession Velocity,Radio Velocity,Cellsize,RA,DEC,Xmin,Xmax,Ymin,Ymax
+HE0433,CO,HCN,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0433/HE0433_clean_hcn.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0433/HE0433_mom1.fits,10658,10640,,,,,,,
+HE0433,CO,HCO+,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0433/HE0433_clean_hco.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0433/HE0433_mom1.fits,10658,10640,,,,,,,
+HE0433,CO,CS,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0433/HE0433_clean_cs.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0433/HE0433_mom1.fits,10658,10640,,,,,,,
+HE0108,MUSE,HCN,354.5054779,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0108/HE0108_clean_hcn.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0108/HE0108MuseMom1.fits,7171,7160,5.55E-05,17.790413,-47.46,-159,159,-157,158
+HE0108,MUSE,HCO+,356.734223,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0108/HE0108_clean_hco.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0108/HE0108MuseMom1.fits,7171,7160,5.55E-05,17.790413,-47.46,-159,159,-157,158
+HE0108,MUSE,CS,342.8828503,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0108/HE0108_clean_cs.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE0108/HE0108MuseMom1.fits,7171,7160,5.55E-05,17.790413,-47.46,-159,159,-157,158
+HE1353,CO,HCN,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1353/HE1353_clean_hcn.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1353/HE1353_mom1.fits,10499,10504,,,,,,,
+HE1353,CO,HCO+,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1353/HE1353_clean_hco.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1353/HE1353_mom1.fits,10499,10504,,,,,,,
+HE1353,CO,CS,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1353/HE1353_clean_cs.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1353/HE1353_mom1.fits,10499,10504,,,,,,,
+HE1108,CO,HCN,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1108/HE1108_clean_hcn.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1108/HE1108_mom1.fits,7198,7190,,,,,,,
+HE1108,CO,HCO+,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1108/HE1108_clean_hco.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1108/HE1108_mom1.fits,7198,7190,,,,,,,
+HE1108,CO,CS,,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1108/HE1108_clean_cs.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1108/HE1108_mom1.fits,7198,7190,,,,,,,
+HE1029,MUSE,HCN,354.5054779,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1029/HE1029_clean_hcn.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1029/HE1029MuseMom1.fits,12070,12060,5.55E-05,157.98875,-18.77917,-158,159,-157,157
+HE1029,MUSE,HCO+,356.734223,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1029/HE1029_clean_hco.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1029/HE1029MuseMom1.fits,12070,12060,5.55E-05,157.98875,-18.77917,-158,159,-157,157
+HE1029,MUSE,CS,342.8828503,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1029/HE1029_clean_cs.image.fits,/Users/jelford/Documents/PhD_Work/CARS_Data/HE1029/HE1029MuseMom1.fits,12070,12060,5.55E-05,157.98875,-18.77917,-158,159,-157,157

@@ -1,0 +1,36 @@
+Galaxy,OIII Value,OIII Error ,OIII Units,NII Value,NII Error,NII Units,Hbeta Value,Hbeta Error,Hbeta Units,Halpha Value,Halpha Error,Halpha Units,Distance (Mpc),NII Source
+Frl1146,40.24,0.06,log (erg/s),,,None,40.68,,log (erg/s),,,None,136.7,
+FRL49,42.39,,log (erg/s),3.24E+05,2.32E+03,e-20 W/m^2,6.62E+04,1.17E+03,e-20 W/m^2,5.19E+05,2.79E+03,e-20 W/m^2,85.7,6dF
+MRK567,,,None,,,None,,,None,,,None,140.6,
+NGC0383,39.46,,log (erg/s),,,None,,,None,,,None,66.6,
+NGC0404,37.69,,log (erg/s),,,None,37.6,,log (erg/s),,,None,3.01,
+NGC0449,41.5,,log (erg/s),,,None,,,None,,,None,66.25,
+NGC0524,37.55,,log (erg/s),,,None,37.87,,log (erg/s),,,None,23.3,
+NGC0612,40.03,,log (erg/s),2.32E+03,1.08,e-20 W/m^2,39.53,,log (erg/s),3440,1.02E+03,e-20 W/m^2,130.4,6dF
+NGC0708,39.1,,log (erg/s),,,None,,,None,,,None,58.3,
+NGC1194,40.03,,log (erg/s),7.74E+02,2.15E+01,e-20 W/m^2,1.75E+02,9.50E+00,e-20 W/m^2,1.57E+03,2.39E+01,e-20 W/m^2,53.2,SDSS
+NGC1387,2550,4.54E+02,e-20 W/m^2,1.66E+04,6.74E+02,e-20 W/m^2,2.70E+03,3.22E+02,e-20 W/m^2,3.75E+04,7.82E+02,e-20 W/m^2,19.9,6dF
+NGC1574,,,None,,,None,,,None,,,None,19.3,
+NGC2110,40.41,,log (erg/s),9.06E+03,5.29E+02,e-20 W/m^2,39.71,,log (erg/s),12300,5.11E+02,e-20 W/m^2,35.6,6dF
+NGC3169,39.46,,log (erg/s),,,None,39.03,,log (erg/s),,,None,18.7,
+NGC3351,37.28,0.14,log (erg/s),1.36E+01,1.00E+00,e-15 erg/s/cm^2,38.08,,log (erg/s),19.7,1.10E+00,e-15 erg/s/cm^2,10,
+NGC3368,38.85,,log (erg/s),,,None,38.63,,log (erg/s),,,None,18,
+NGC3607,39.48,,log (erg/s),,,None,39.16,,log (erg/s),,,None,22.2,
+NGC3862,39.2,,log (erg/s),9.70E+02,2.92E+02,e-20 W/m^2,7.10E+01,1.07E+01,e-20 W/m^2,3.55E+02,2.13E+01,e-20 W/m^2,92.5,SDSS
+NGC4061,183,,e-20 W/m^2,4.85E+02,2.40E+01,e-20 W/m^2,1.38E+02,1.48E+01,e-20 W/m^2,7.67E+02,2.68E+01,e-20 W/m^2,94.1,SDSS
+NGC4261,39.6,,log (erg/s),,,None,39.23,,log (erg/s),,,None,31.948,
+NGC4429,38.69,,log (erg/s),,,None,38.7,,log (erg/s),,,None,16.5,
+NGC4435,39.02,,log (erg/s),,,None,39.2,,log (erg/s),,,None,16.5,
+NGC4438,39.69,,log (erg/s),,,None,39.64,,log (erg/s),,,None,16.5,
+NGC4501,39.31,,log (erg/s),,,None,38.6,,log (erg/s),,,None,14,
+NGC4697,,,None,,,None,,,None,,,None,11.4,
+NGC4826,39.03,,log (erg/s),50.8,2.9,e-15 erg/s/cm^2,38.9,,log (erg/s),42,3.9,e-15 erg/s/cm^2,7.36,
+NGC5064,607,2.78E+02,e-20 W/m^2,8.78E+03,4.33E+02,e-20 W/m^2,5.38E+02,1.15E+02,e-20 W/m^2,2.05E+04,4.06E+02,e-20 W/m^2,34,6dF
+NGC5765b,7290,5.76E+01,e-20 W/m^2,4.35E+03,3.92E+01,e-20 W/m^2,1.23E+03,1.76E+01,e-20 W/m^2,6.45E+03,5.31E+01,e-20 W/m^2,114,SDSS
+NGC5806,,,None,,,None,,,None,,,None,21.4,
+NGC5995,1.15E+04,1.09E+03,e-20 W/m^2,7.28E+04,2.88E+03,e-20 W/m^2,3.72E+04,1.45E+03,e-20 W/m^2,5.61E+04,2.50E+03,e-20 W/m^2,107.5,6dF
+NGC6753,2.53E+02,9.88E+01,e-20 W/m^2,3.80E+02,1.37E+02,e-20 W/m^2,4.69E+02,1.93E+02,e-20 W/m^2,2.04E+02,1.00E+02,e-20 W/m^2,42,6dF
+NGC6958,,,None,,,None,,,None,,,None,30.6,
+NGC7052,39.44,,log (erg/s),,,None,,,None,,,None,51.55,
+NGC7172,1.79E+04,7.62E+02,e-20 W/m^2,3.22E+04,1.77E+03,e-20 W/m^2,2.99E+04,1.08E+03,e-20 W/m^2,3.87E+04,1.75E+03,e-20 W/m^2,33.9,6dF
+PGC043387,1.49E+03,3.47E+02,e-20 W/m^2,1.27E+04,7.06E+02,e-20 W/m^2,2.83E+03,4.06E+02,e-20 W/m^2,1.41E+04,6.33E+02,e-20 W/m^2,95.8,SDSS

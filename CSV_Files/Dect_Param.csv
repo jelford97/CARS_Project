@@ -1,0 +1,8 @@
+Galaxy,Line,File Path,Channel Width,Beam,Intensity (Jy km/s),Error (Jy km/s)
+HE0433,HCN,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0433HCN_stacked.fits,20,0.027,2.2477256455371264,0.10867929390644548
+HE0433,HCO,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0433HCO+_stacked.fits,20,0.027,2.386024610770279,0.12620505479534389
+HE1029,HCN,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1029HCN_stacked.fits,20,0.028,0.5930825458018424,0.09534675058055872
+HE1029,HCO,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1029HCO+_stacked.fits,20,0.028,2.4678992457476645,0.1617219207102175
+HE1108,CS,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1108CS_stacked.fits,20,0.018,0.4215310962809257,0.052863635739214945
+HE1108,HCN,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1108HCN_stacked.fits,20,0.019,0.7769756175394941,0.06076821648934951
+HE1108,HCO,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1108HCO+_stacked.fits,20,0.019,1.5319476897634707,0.060722957920625986

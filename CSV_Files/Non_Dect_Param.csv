@@ -1,0 +1,12 @@
+Galaxy,Line,Detection,Line Vel Min,Line Vel Max,File Path,Line Width,Upper Limit Flux (Jy),Upper Limit Intensity (Jy km/s)
+HE0108,CS,No,-500,-260,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0108CS_stacked.fits,250,0.001926188,0.4815470431803692
+HE0108,HCN,No,-249,249,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0108HCN_stacked.fits,300,0.001909656,0.5728968331348886
+HE0108,HCO,No,-259,259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0108HCO+_stacked.fits,300,0.002097948,0.6293842547752075
+HE0433,CS,No,-499,-259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0433CS_stacked.fits,250,0.004334364,1.0835909430260415
+HE1029,CS,No,-500,-260,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1029CS_stacked.fits,250,0.003073122,0.76828046
+HE1353,CS,No,-499,-259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1353CS_stacked.fits,250,0.001614898,0.4037244907801755
+HE1353,HCN,No,-249,249,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1353HCN_stacked.fits,300,0.001455638,0.43669138440084865
+HE1353,HCO,No,-259,259,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1353HCO+_stacked.fits,300,0.001578114,0.4734343197649609
+HE0433,CO13,No,-409,409,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE0433CO_13__stacked.fits,340,0.001302477,0.4428423446892946
+HE1108,CO13,No,-390,390,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1108CO_13__stacked.fits,280,0.002073888,0.580688766
+HE1353,CO13,No,-390,390,/Users/jelford/Documents/PhD_Work/CARS_Project/Plots/Stacked_Spectra/SpectraHE1353CO_13__stacked.fits,530,0.001023776,0.5426012709367098
